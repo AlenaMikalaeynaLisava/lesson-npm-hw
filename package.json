@@ -1,0 +1,22 @@
+{
+  "name": "lesson-npm-hw",
+  "version": "1.0.0",
+  "description": "That is supposed to be a first real home task in frame of new module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaMikalaeynaLisava/lesson-npm-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenaMikalaeynaLisava/lesson-npm-hw/issues"
+  },
+  "homepage": "https://github.com/AlenaMikalaeynaLisava/lesson-npm-hw#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
